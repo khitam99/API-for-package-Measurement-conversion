@@ -1,0 +1,11 @@
+
+2025-04-23 11:18:24,504 - Main_APP - INFO - Processing input string: zza_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_
+2025-04-23 11:18:24,541 - Main_APP - INFO - Processed measurement: zza_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_ -> [26, 0] (encrypted)
+2025-04-23 11:18:34,119 - Main_APP - INFO - Processing input string: zza_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_
+2025-04-23 11:18:34,136 - Main_APP - INFO - Processed measurement: zza_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_ -> [26] (encrypted)
+2025-04-23 11:18:43,191 - Main_APP - INFO - Processing input string: dz_a_aazzaa
+2025-04-23 11:18:43,202 - Main_APP - INFO - Processed measurement: dz_a_aazzaa -> [28, 53, 1] (encrypted)
+2025-04-23 11:20:29,588 - Main_APP - INFO - Shutting down application
+2025-04-23 11:20:29,588 - Main_APP - INFO - MongoDB connection closed
+2025-04-23 11:25:54,986 - INFO - App startup initiated.
+2025-04-23 11:30:28,430 - INFO - MongoDB client closed.
